@@ -7,7 +7,7 @@ This is the second project of the Software Engineering program at TripleTen. It 
 - Semantic HTML5
 - Flexbox
 - Positioning
-- Flat BEM file structure
+- Flat BEM file structurels 
 - A custom form
 - CSS animation and transform
 
